@@ -1,0 +1,4 @@
+ASSISTANT_NAME1 = "alexa"
+ASSISTANT_NAME2 = "sophia"
+ASSISTANT_NAME3 = "jarvis"
+ASSISTANT_NAME4 = "sofia"
